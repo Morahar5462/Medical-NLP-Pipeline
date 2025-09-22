@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for your project.
-
------
-
 # 🩺 AI Physician Notetaker
 
 This project provides a sophisticated AI pipeline for processing and analyzing medical conversation transcripts. It automatically extracts a structured medical summary, analyzes patient sentiment and intent, and generates a clinically relevant SOAP note.
